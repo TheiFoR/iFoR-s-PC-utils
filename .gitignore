@@ -1,0 +1,5 @@
+**/__pycache__/*
+config.py
+users_database.json
+build/*
+.idea/*
